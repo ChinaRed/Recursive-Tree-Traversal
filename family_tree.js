@@ -1,4 +1,4 @@
-var family_tree = {
+module.exports = {
   root: {
     name: 'Bjorn',
     age: 28,
